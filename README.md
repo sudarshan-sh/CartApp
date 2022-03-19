@@ -4,6 +4,8 @@
 
 Basic React app that lists the smart phones in the cart or shopping bag.
 
+![Cart App](https://github.com/sudarshan-sh/CartApp/blob/main/images/cart-app.png)
+
 ##  Functional
 
 *   The list shows the details of smart phones and user can select the different number of phones in the cart.
